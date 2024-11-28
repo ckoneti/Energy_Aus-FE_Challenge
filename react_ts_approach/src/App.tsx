@@ -12,7 +12,7 @@ export default function App() {
           "https://eacp.energyaustralia.com.au/codingtest/api/v1/festivals", 
           {
             headers: {
-                'Access-Control-Allow-Origin': '*', // Optional - but this is usually set by the server
+                'Access-Control-Allow-Origin': '*',
                 'Content-Type': 'application/json',
             }
           }
