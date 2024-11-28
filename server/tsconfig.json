@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "target": "ES6",
+      "outDir": "dist",
+      "rootDir": ".",
+      "strict": true,
+      "strictNullChecks": true,
+      "moduleResolution": "Node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "allowJs": true,
+      "lib": ["ES2019"],
+      "noImplicitAny": false,
+      "preserveConstEnums": true
+    },
+  }
